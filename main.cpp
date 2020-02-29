@@ -21,7 +21,7 @@ int main() {
     }
     cout << max;
     //testowy
-    //drugi commitaaa
+    //drugi commitaaaa
 
     return 0;
 }
