@@ -20,7 +20,8 @@ int main() {
 
     }
     cout << max;
-    //testowy commmitt
+    //testowy
+    //drugi commit
 
     return 0;
 }
